@@ -1,3 +1,10 @@
+# Demonstrates a bug in PhantomJS 1.0 with Angular errors
+
+To see the bug in action, run `npm test`
+
+To see the correct output, run `npm run test-chrome`
+
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
